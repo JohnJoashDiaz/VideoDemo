@@ -18,6 +18,10 @@ int main()
 //test newbranch
 //test newbranch 2
 //test newbranch 3
+<<<<<<< HEAD
 //test newbranch 4
+=======
+//test newbranch 5
+>>>>>>> newbranch
 }
 
