@@ -1,4 +1,3 @@
-
 #include <iostream>
 #include <string.h>
 
@@ -18,3 +17,4 @@ int main()
     cout<< "Your password is: " << password<<endl;
 
 }
+
