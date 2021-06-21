@@ -15,10 +15,13 @@ int main()
     //Display Username and Password
     cout<< endl<<"Your Username is: " <<username<< endl;
     cout<< "Your password is: " << password<<endl;
+<<<<<<< HEAD
 //test newbranch
 //test newbranch 2
 //test newbranch 3
 //test newbranch 4
 //test newbranch 5
+=======
+>>>>>>> e544713bd55da5cc9dfab511343c97029dfba295
 }
 
